@@ -1,0 +1,6 @@
+@mission10baylorapi_HostAddress = http://localhost:5244
+
+GET {{mission10baylorapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
